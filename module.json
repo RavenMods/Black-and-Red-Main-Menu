@@ -1,0 +1,11 @@
+{
+    "name": "Black-and-Red-Main-Menu",
+    "category": "client",
+    "description": "Turns your main menu icons black/ dark gray with a red glow and red hovering effect.",
+    "author": "Raven",
+    "options": {
+        "guiName": "UI: Black and Red Main Menu",
+        "niceName": "Black and Red Main Menu"
+    },
+    "servers": ["https://raw.githubusercontent.com/RavenMods/Black-and-Red-Main-Menu/master/"]
+}
